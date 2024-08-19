@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neocashi.github.io/sitemap.html.gz
+Sitemap: https://neocashi.github.io/app/sitemap.html.gz
+Sitemap: https://neocashi.github.io/assets/sitemap.html.gz
+Sitemap: https://neocashi.github.io/css/sitemap.html.gz
+Sitemap: https://neocashi.github.io/includes/sitemap.html.gz
+Sitemap: https://neocashi.github.io/item/sitemap.html.gz
+Sitemap: https://neocashi.github.io/src/sitemap.html.gz
